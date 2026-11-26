@@ -1,0 +1,6 @@
+pair,odor_order,odor,word,ipa,syllables,t_handover_s,t_first_response_s,t_word_first_said_s,t_agreement_s,s_to_agreement,n_candidates,n_rule_rejections,proposed_by,route,source_words,source_type,transcript_rule,described_as,note
+1,1,soap,lamok,ˈlamɔk,2,138.4,154.7,219.8,245.7,107.3,2,1,P1,blend,las 'forest'; mokry 'wet',content,exclude,freshness; laundry; wet forest; moss,
+1,2,garlic,bleszczur,ˈblɛʂt͡ʂur,2,276.2,279.2,452.6,462.3,186.1,6,2,"P1 (bleszcz), completed by P2",sound,blech (interjection); graszcz (invented),interjection,"keep, flag",old cut garlic; scratchy; irritating; drills into the nose,inflected as a noun right away (bleszczura)
+1,3,fish sauce,żarfek,ˈʐarfɛk,2,488.2,491.8,564.5,573.1,84.9,1,0,P1,blend,żarcie 'grub'; fek (for nastiness),content,exclude,pet food; cat food; digested food; sock,
+1,4,"limescale and rust remover (W5, Lidl)",lemklin,ˈlɛmklin,2,603.2,604.0,634.4,663.4,60.2,1,0,P2,blend,lemon; clean (English),content,exclude,cleaning liquid; toilet cleaner; fake lemon; chemicals,"first said as lem clean, then spelled with k and l; P2 was unsure whether it was allowed"
+1,5,"nutmeg (whole, weak)",flubuf,ˈflubuf,2,689.5,697.6,745.4,752.3,62.8,3,0,P1,sound,puf; buf (onomatopoeia),onomatopoeia,"keep, flag",weak; spice; clove-like,heard as flubów; final -ów is pronounced [uf]

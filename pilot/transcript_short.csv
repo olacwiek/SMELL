@@ -1,0 +1,62 @@
+pair,odor_order,odor,t_s,time,speaker,text_pl,text_en
+1,0,instructions,20.8,00:20.8,E,"Zadanie wygląda tak, że chciałabym, żebyście stworzyły [...] dwusylabowe słowa nowe na określenie tego zapachu, który dostaniecie.",The task is that I'd like you to create [...] new two-syllable words for the smell you will get.
+1,0,instructions,49.5,00:49.5,E,"Będziecie mieć niestety tylko jeden [...] słoiczek. Normalnie by były dwa [...]. Starajcie się nie patrzeć do środka [...], tylko jak najbardziej zapachem się sugerować.",Unfortunately you will have only one [...] jar. Normally there would be two [...]. Try not to look inside [...] and go by the smell as much as you can.
+1,0,instructions,75.5,01:15.5,E,"To ma być słowo nieistniejące [...]. Żebyście nie używały nazwy tego, skąd to pochodzi. Na przykład jeśli to byłby zapach cytrynowy, to żebyście nie powiedziały citron albo lemon, z żadnego języka.","It has to be a word that doesn't exist [...]. Don't use the name of where the smell comes from. For example, if it were a lemon smell, don't say citron or lemon, from any language."
+1,0,instructions,109.6,01:49.6,E,"[...] możecie ze sobą negocjować. Na przykład [P2] zaproponuje, a ty powiesz: ""Nie, dla mnie to w ogóle tak nie brzmi jak to słowo"". Albo odwrotnie.","[...] you can negotiate. For example, [P2] proposes something and you say: ""No, to me it doesn't sound like that word at all."" Or the other way round."
+1,0,instructions,137.0,02:17.0,E,To jest pierwszy zapach.,This is the first smell.
+1,1,soap,154.5,02:34.5,P1,"[Kojarzy się] z taką świeżością, praniem.","[It reminds me] of freshness, laundry."
+1,1,soap,159.5,02:39.5,P2,"Mi się to też kojarzy z takim lasem. Tak mokro pachnie, jakkolwiek to brzmi dziwnie. Tak mokro pachnie takim mchem albo jakimś lasem albo jakimś właśnie proszkiem do prania, który miałby lasem pachnieć.","To me it's also like a forest. It smells so wet, however strange that sounds. Wet like moss or a forest, or a laundry detergent that is supposed to smell of forest."
+1,1,soap,177.9,02:57.9,P1,Taka świeżość. Jak mogłaby się świeżość nazywać?,Such freshness. What could freshness be called?
+1,1,soap,199.5,03:19.5,P2,"Hasło dla mnie właśnie to jest taki mokry zapach. [...] Pranie, mokry. Las. Las, coś takiego.","The key word for me is a wet smell. [...] Laundry, wet. Forest. Forest, something like that."
+1,1,soap,217.9,03:37.9,P1,Lamoka. To są trzy [sylaby]. [...] Lamok.,Lamoka. That's three [syllables]. [...] Lamok.
+1,1,soap,230.8,03:50.8,P2,"Tylko nie możemy na przykład lasu użyć, nie? Bo to jest na przykład jedna sylaba.","But we can't use 'forest', for example, right? Because that's one syllable."
+1,1,soap,245.7,04:05.7,P1,Dawaj lamok.,Let's go with lamok.
+1,1,soap,246.9,04:06.9,E,"Lamok. Okej, to jest lamok.","Lamok. Okay, that's lamok."
+1,1,soap,252.3,04:12.3,E,"Pamiętajcie, że sylaby też mogą być skomplikowane. [...]","Remember that syllables can also be complex, for example end in dż [...]"
+1,2,garlic,267.0,04:27.0,E,To jest numer dwa.,This is number two.
+1,2,garlic,279.1,04:39.1,P1,"O Jezu, to mi nieprzyjemnie pachnie.","Oh God, this smells unpleasant to me."
+1,2,garlic,292.5,04:52.5,P1,"To jest taki zapach czosnku, takiego starego, już takiego pokrojonego. [...] To aż przeczyszcza nozdrza. Taki on jest drapiący ten zapach.","It's a garlic smell, old garlic, already cut. [...] It clears out your nostrils. This smell is so scratchy."
+1,2,garlic,321.2,05:21.2,P1,Czosnek taki drażniący. Z wampirami jeszcze mi się czosnek kojarzy.,"Garlic, irritating. Garlic also makes me think of vampires."
+1,2,garlic,333.8,05:33.8,P1,"Tu by mogło być takie [słowo na ż, niewyraźne], bo to jest takie drażniące.","Here it could be something like [unclear ż-word], because it's so irritating."
+1,2,garlic,352.7,05:52.7,P1,"Aż tak wierci w tym nosie, jak to się wącha.",It drills into your nose when you smell it.
+1,2,garlic,408.2,06:48.2,P1,"Musiałaby być taka nieprzyjemna dla ucha nazwa, taka że aż się niemiło słucha tej nazwy. Blech.","It would have to be a name that's unpleasant to the ear, so it's unpleasant to hear. Blech."
+1,2,garlic,416.7,06:56.7,P2,To jest słowo.,That's a word.
+1,2,garlic,420.0,07:00.0,P1,"Może taki graszcz, taki, że aż ciężki do wymówienia i taki nieprzyjemny.","Maybe something like graszcz, so it's hard to pronounce and unpleasant."
+1,2,garlic,434.7,07:14.7,P1,Bleszcz. Też by pasowało.,Bleszcz. That would fit too.
+1,2,garlic,442.3,07:22.3,P2,Chociaż nie kojarzy mi się to z czosnkiem.,Although it doesn't remind me of garlic.
+1,2,garlic,444.0,07:24.0,P1,A mi tak.,It does to me.
+1,2,garlic,446.6,07:26.6,E,To jest jedna sylaba. Potrzebujecie drugiej jeszcze.,That's one syllable. You need a second one.
+1,2,garlic,452.9,07:32.9,P2,Taki bleszczur. [...] Może być bleszczur.,Something like bleszczur. [...] Could be bleszczur.
+1,2,garlic,457.0,07:37.0,E,"Oczywiście, że może być. Jeśli obie to akceptujecie, to jest okej.","Of course it can. If you both accept it, it's okay."
+1,2,garlic,462.3,07:42.3,E,Dobra. Bleszczur. Możecie też zawsze [...] powtarzać sylaby [...].,Okay. Bleszczur. You can also always [...] repeat syllables [...].
+1,2,garlic,474.5,07:54.5,P1,[...] komuś podrzucić bleszczura.,[...] slip someone a bleszczur.
+1,3,fish sauce,486.2,08:06.2,E,To jest numer trzy.,This is number three.
+1,3,fish sauce,501.8,08:21.8,P1,To pachnie [jak] karma dla zwierząt.,This smells like pet food.
+1,3,fish sauce,522.5,08:42.5,P2,"A takim kotem, w sensie nie kotem, koty nie śmierdzą, tylko to, co jedzą.","Like a cat, I mean not the cat, cats don't stink, it's what they eat."
+1,3,fish sauce,526.4,08:46.4,P1,"Tak, z takim jedzeniem. Jak przetrawionym jeszcze do tego.","Yes, like food. Digested, on top of that."
+1,3,fish sauce,551.4,09:11.4,P2,To jest coś pomiędzy dla mnie karmą dla kota i skarpetą.,To me it's something between cat food and a sock.
+1,3,fish sauce,561.5,09:21.5,P1,Może to jest taki [...] żarfek.,Maybe it's like [...] żarfek.
+1,3,fish sauce,566.0,09:26.0,P2,Czemu?,Why?
+1,3,fish sauce,567.0,09:27.0,P1,"No takie żarcie, ale takie paskudne. Takie fek.","Well, like grub, but nasty. Kind of fek."
+1,3,fish sauce,571.0,09:31.0,P2,Żarfek.,Żarfek.
+1,3,fish sauce,573.1,09:33.1,E,Okej. Żarfek.,Okay. Żarfek.
+1,4,"limescale and rust remover (W5, Lidl)",592.5,09:52.5,E,[...] wąchać ostrożnie. Nie jest to szkodliwe [...].,[...] sniff carefully. It's not harmful [...].
+1,4,"limescale and rust remover (W5, Lidl)",604.0,10:04.0,P2,Jest lepiej.,It's better.
+1,4,"limescale and rust remover (W5, Lidl)",609.4,10:09.4,P2,To pachnie płynem takim. No to mi nie przeszkadza.,"This smells like some liquid. Well, I don't mind it."
+1,4,"limescale and rust remover (W5, Lidl)",614.1,10:14.1,P1,Taki Domestos do kibla.,Like Domestos for the toilet.
+1,4,"limescale and rust remover (W5, Lidl)",615.2,10:15.2,P2,Czyszczące takie.,Some cleaning stuff.
+1,4,"limescale and rust remover (W5, Lidl)",623.6,10:23.6,P1,"Miałoby pachnąć cytryną, ale pachnie chemią [...].","It's supposed to smell of lemon, but it smells of chemicals [...]."
+1,4,"limescale and rust remover (W5, Lidl)",634.0,10:34.0,P2,[...] jakiś lem clean.,[...] something like lem clean.
+1,4,"limescale and rust remover (W5, Lidl)",639.5,10:39.5,P2,"Tylko nie wiem, czy to dopuszczalne. [...] Lemklin. Jakbyśmy zrobili przez k, l [...].","But I don't know if that's allowed. [...] Lemklin. If we spelled it with k, l [...]."
+1,4,"limescale and rust remover (W5, Lidl)",654.7,10:54.7,P1,"Pachnie takim środkiem czyszczącym. Miał udawać cytrynę, ale nieudolnie.","It smells like a cleaning product. It was meant to imitate lemon, but clumsily."
+1,4,"limescale and rust remover (W5, Lidl)",663.4,11:03.4,P1,No może być. Lemklin.,"Well, it can be. Lemklin."
+1,4,"limescale and rust remover (W5, Lidl)",665.0,11:05.0,P2,Dobra.,Okay.
+1,5,"nutmeg (whole, weak)",672.4,11:12.4,E,I ostatni [...].,And the last one [...].
+1,5,"nutmeg (whole, weak)",683.5,11:23.5,P1,Znowu ja zaczynam?,Am I starting again?
+1,5,"nutmeg (whole, weak)",697.6,11:37.6,P2,"Dobra, spróbuję. Myślę, że ten zapach nie jest aż tak wyraźny.","Okay, I'll try. I think this smell isn't very distinct."
+1,5,"nutmeg (whole, weak)",704.2,11:44.2,P1,Słaby jest.,It's weak.
+1,5,"nutmeg (whole, weak)",708.3,11:48.3,P1,Przyprawa jakaś.,Some spice.
+1,5,"nutmeg (whole, weak)",718.4,11:58.4,P1,"Trochę takim goździkiem daje, w sensie korzenną jakąś przyprawą.","It gives off a bit of clove, I mean some warm spice."
+1,5,"nutmeg (whole, weak)",723.9,12:03.9,P1,"Ja mam coś takiego ulotnego w nazwie. Takie puf albo buf. [...] że to jest taki słaby zapach, nie taki sz, tylko taki delikatny.","I have something fleeting in mind for the name. Like puf or buf. [...] because it's such a weak smell, not like sz, but delicate."
+1,5,"nutmeg (whole, weak)",740.7,12:20.7,P1,Takie delikatne litery bym dla niego wybrała. Taki flubuf.,I'd choose delicate letters for it. Something like flubuf.
+1,5,"nutmeg (whole, weak)",752.4,12:32.4,P2,"Dobra, ja jestem za.","Okay, I'm in."

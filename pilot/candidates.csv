@@ -1,0 +1,15 @@
+pair,odor_order,odor,t_s,time,form,proposed_by,status,reason
+1,1,soap,219.8,03:39.8,lamoka,P1,rejected by pair,three syllables
+1,1,soap,219.8,03:39.8,lamok,P1,accepted,
+1,2,garlic,333.8,05:33.8,[unclear ż-word],P1,abandoned,form not clear on the recording
+1,2,garlic,408.4,06:48.4,blech,P1,dropped,P2: 'to jest słowo' ('that's a word')
+1,2,garlic,420.1,07:00.1,graszcz,P1,abandoned,
+1,2,garlic,442.3,07:22.3,bleszcz,P1,rejected by experimenter,one syllable
+1,2,garlic,452.6,07:32.6,bleszczu,P2,superseded,
+1,2,garlic,452.6,07:32.6,bleszczur,P2,accepted,
+1,3,fish sauce,564.5,09:24.5,żarfek,P1,accepted,
+1,4,"limescale and rust remover (W5, Lidl)",634.4,10:34.4,lem clean,P2,respelled,spelled with k and l
+1,4,"limescale and rust remover (W5, Lidl)",663.4,11:03.4,lemklin,P2,accepted,
+1,5,"nutmeg (whole, weak)",723.8,12:03.8,puf,P1,idea,one syllable
+1,5,"nutmeg (whole, weak)",723.8,12:03.8,buf,P1,idea,one syllable
+1,5,"nutmeg (whole, weak)",741.7,12:21.7,flubuf,P1,accepted,
